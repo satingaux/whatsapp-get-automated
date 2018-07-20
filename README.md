@@ -1,5 +1,6 @@
-# whatsapp
-This repo includes Selenium and Java.
+# Whatsapp
+It includes Selenium and Java.<br>
+It reply to whatsapp messages automatically.<br>
 # The motivation behind this repo
 At my clg IIIT Sonepat <br>
 In student's whatsAPP grp,<br>
