@@ -11,7 +11,7 @@ Never Ever in replying the whatsapp msgez.<br>
 So, I made it.<br>
 
 # What it exactly do?
-This application will check in every 5 millisecinds: Is there any new message or not?<br>
+This application will check in every 5 millisecinds:<br> Is there any new message or not?<br>
                                                      If yes it will check wheather it contains a birthday wish or not?<br>
                                                      If yes reply to it by picking up a random msg from a predefined list of replies.<br>
 
